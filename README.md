@@ -1,5 +1,5 @@
 # Predicting-Stock-Prices-Using-Machine-Learning
-Using Machine Learning, this project uses Linear Regression to predict the prices of stable stocks using Python and datasets from Quandl. <br><br>
+Using Machine Learning, this project uses Linear Regression to predict the prices of <b> stable stocks <b/> using Python and datasets from Quandl. <br><br>
 <img src="https://i.imgur.com/Z2G7J2P.png"/>
 
 The green line represents the regular stock price, the yellow line represents the predicted stock price.
