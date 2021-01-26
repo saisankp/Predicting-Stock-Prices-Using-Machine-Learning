@@ -16,7 +16,8 @@ from sklearn import preprocessing
 from sklearn.linear_model import LinearRegression
 
 #use my API Key for Quandl.
-quandl.ApiConfig.api_key = 'ygW4wsDpysSHgnNszi7b'
+#uncomment line below and add your quandl API key.
+#quandl.ApiConfig.api_key = 'Your API key goes here'
 
 #get our dataframe, passing in which service we are using, and which stock we want to use.
 #Gets over 20 years of data to work with.
